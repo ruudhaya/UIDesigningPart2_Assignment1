@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\UserData\Udhay\2015\AndroidProjWS\HideAndShow\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HideAndShow\app\build\intermediates\pre-dexed\debug\classes-d38c8af068e560efa1968fd1f3522e8a289afef0.jar" />
+    </item>
+    <item
+        jar="D:\UserData\Udhay\2015\AndroidProjWS\HideAndShow\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HideAndShow\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-7aa6c638dda1de6a63f049629ed3eae3bf627da5.jar" />
+    </item>
+    <item
+        jar="D:\UserData\Udhay\2015\AndroidProjWS\HideAndShow\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HideAndShow\app\build\intermediates\pre-dexed\debug\classes-5df343ab865ee339f0f3c94a79bb50e44308ff83.jar" />
+    </item>
+    <item
+        jar="D:\UserData\Udhay\Softwares\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HideAndShow\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-a740c84fa10f58adbe55e7e7b2d91d6cca319b6b.jar" />
+    </item>
+    <item
+        jar="D:\UserData\Udhay\2015\AndroidProjWS\HideAndShow\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HideAndShow\app\build\intermediates\pre-dexed\debug\classes-5ded6d73f8b87a18b9477c90f073e55488a3736e.jar" />
+    </item>
+    <item
+        jar="D:\UserData\Udhay\2015\AndroidProjWS\HideAndShow\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HideAndShow\app\build\intermediates\pre-dexed\debug\classes-f259423b293e41ab76b0c3868961f5b2b9932a31.jar" />
+    </item>
+
+</items>
